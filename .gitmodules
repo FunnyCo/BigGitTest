@@ -1,0 +1,6 @@
+[submodule "lianjia"]
+	path = lianjia
+	url = git@github.com:floing/lianjia.git
+[submodule "java-core-learning-example"]
+	path = java-core-learning-example
+	url = git@github.com:floing/java-core-learning-example.git
