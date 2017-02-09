@@ -1,0 +1,3 @@
+[submodule "lianjia"]
+	path = lianjia
+	url = git@github.com:floing/lianjia.git
